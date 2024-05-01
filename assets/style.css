@@ -1,0 +1,38 @@
+/* styles.css */
+
+/* Navbar */
+.navbar {
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 1.2rem;
+  }
+  
+  /* About Section */
+  #about {
+    background-color: #f8f9fa;
+  }
+  
+  /* Portfolio Section */
+  #portfolio {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  /* Contact Section */
+  #contact {
+    background-color: #f8f9fa;
+  }
+  
+  /* Footer */
+  footer {
+    color: #fff;
+    background-color: #343a40;
+  }
+  
